@@ -1,2 +1,2 @@
 # Data-Notes
-Apuntes y ejercicios del Master en Data Science &amp; Big Data.
+Carpetas que recogen apuntes, ejercicios y proyectos que voy desarrollando durante el máster.
