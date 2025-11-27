@@ -12,5 +12,8 @@ Todos los notebooks intentan seguir la misma plantilla de nota técnica para man
 - Incluir proyectos prácticos completos
 - Integrar visualizaciones y notebooks interactivos
 
+## Plantilla de apuntes
+Todos los notebooks usan la plantilla disponible en [Templates/plantill_nota.ipynb](Templates/plantill_nota.ipynb)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
